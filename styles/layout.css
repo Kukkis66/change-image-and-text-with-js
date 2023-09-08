@@ -1,0 +1,42 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color: orange;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 4.2rem;
+    padding: 3rem;
+    text-align: center;
+    text-shadow: 1rem;
+}
+figure {
+    text-align: center;
+}
+img {
+    max-width: 30rem;
+    
+    
+    
+    
+    
+}
+
+button {
+    margin-left: 2rem;
+    margin-block-end: 1rem;
+}
+
+p {
+    padding: 1rem;
+    font-size: 1.6rem;
+    margin-block-end: 1rem;
+}
+
+li {
+    margin-left: 4rem;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
